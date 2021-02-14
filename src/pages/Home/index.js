@@ -2,9 +2,9 @@
 
 const Home = () => {
   return(
-    <h1>
+    <p>
       Apenas um Texto de Exemplo
-    </h1>
+    </p>
   )
 }
 
